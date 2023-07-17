@@ -31,7 +31,7 @@ jobs:
         with:
           name: Artifact
           path: |
-            bin/EcoEnchants v*.jar
+            bin/Reforges v*.jar
             LICENSE
 #       # Auto release
 #       - name: Auto release
